@@ -1,0 +1,108 @@
+.container {
+    background-color: #F6F6F6;
+    box-shadow: 0 0 5px 0 #666666;
+    text-align: left;
+    width: 1000px;
+    line-height:normal;
+	font-family: Arial Narrow;
+	font-size: 20px;
+}
+
+.title a:link, .title a:visited
+{
+  color:#333;
+  text-decoration: none;
+}
+
+.logo
+{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.row-fluid [class*="span"]
+{
+  margin-left: 0px;
+}
+
+.well
+{
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  padding:10px;
+  background-color: #FFF;
+}
+
+.title
+{
+  font-family:'Bookman Old Style';
+  font-weight: bold;
+  font-size:24px;
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+
+.brick 
+{
+   border : 0 none;
+   box-shadow: 0 0 5px 0 #999999;
+   padding : 0 0 10px 0;
+}
+
+.brick.services
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.brick h2
+{
+   background-color: rgb(47, 102, 129);
+   color: white;
+   border-radius: 6px 6px 0 0;
+   font-size: 20px;
+   line-height: 16px;
+   padding: 9px 15px 10px 0;
+   text-indent: 10px;
+}
+
+.brick2 h2
+{
+   background-color: rgb(47, 102, 102);
+}
+
+.brick3 h2
+{
+   background-color: rgb(102, 47, 47);
+}
+
+.brick div
+{
+   margin: 10px;
+}
+
+.wrap
+{
+   float: left;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+
+.link-img
+{
+   width: auto;
+   height: 60px;
+   margin: 5px;
+}
+
+.footer
+{
+  margin-left: 0px;
+  margin-top: 25px;
+  padding: 25px;
+  font-size: 12px;
+  text-align: center;
+  border-top: 4px solid;
+  background-color: darkgray;
+}
